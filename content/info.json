@@ -8,7 +8,7 @@
     "text": "Parcele em até 12x"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
