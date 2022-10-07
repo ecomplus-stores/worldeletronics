@@ -40,11 +40,6 @@
       "type": "page-title",
       "title": "WORLD ELETRONICS",
       "description": "COMÉRCIO DE ELETRÔNICOS E DIGITAIS"
-    },
-    {
-      "type": "responsive-banner",
-      "mobile_img": "/img/uploads/xiaomibanner-2.jpg",
-      "img": "/img/uploads/xiaomibanner-2.jpg"
     }
   ]
 }
