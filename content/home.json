@@ -6,21 +6,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/xiaomibanner-2.jpg",
-          "link": "",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/xiaomibanner.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/xiaomibanner.jpg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
