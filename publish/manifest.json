@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.204783050af49dd907b52373146601f3.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.57ff31893f66e254be0781f80776c916.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.ee98a18efdb245745328b544a9462fd1.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.41c78545bb2fb3bbc13a496f9f6dbca9.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.6a563efbcbff3cfd087fe86a538fe91f.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "worldeletronics",
+  "short_name": "WORLDELETRONICS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "www.worldeletronics.com.br",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
